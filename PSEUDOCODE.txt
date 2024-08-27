@@ -57,3 +57,34 @@ now For z
 z = b - c
 
   End
+
+
+
+
+
+
+Q3)  Create a calculator which only do + and - operations
+
+
+     Start
+
+
+Input;
+   Var 1 ;
+   Var 2 ;
+   Var 3 ;
+
+
+Process:
+
+if (Var 1 + Var 2) {
+Print "Sum of Var 1 + Var 2";
+} else if ( Var 1 - Var 2 ) {
+Print "Difference of var 1 - Var 2";
+} else if ( Var 2 - Var 1 ) {
+Print "Difference of var 2 - Var 1";
+}
+
+
+   End
+
