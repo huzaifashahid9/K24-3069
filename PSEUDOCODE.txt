@@ -1,1 +1,59 @@
+ //PSEUDOCODE
 
+
+Q1) find maximum number in any of three variables?
+
+      Start
+
+Input A
+Input B
+Input C
+
+Let:
+   var A;
+   var B;
+   var C;
+
+Conditions:
+if (A>B , A>C) {
+   Print "A is max";
+} else if (B>A , B>C) {
+   Print "B is max";
+} else {
+   Print "C is max";
+}
+
+    End
+
+
+
+Q2) Take 3 variables as input and add them without using + operator?
+
+
+    Start
+
+
+Input:
+  Var 1;
+  Var 2;
+  Var 3;
+
+
+Process:
+
+For a 
+a = Var 2  * (-1)
+
+For b
+
+b = Var 1 - Var 2
+
+For c
+
+c = Var 3 * (-1)
+
+now For z
+
+z = b - c
+
+  End
