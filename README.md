@@ -8,4 +8,4 @@ I have completed my Inter from (APSACS) Saddar in Pre-Engineering. /
 Proficient in:
 > html | css | Java script | tailwind | react |node js | bootstrap | Github |.
 
-![ Huzaifa ](https://myoctocat.com/assets/images/base-octocat.svg)
+![ Huzaifa ](https://avatars.githubusercontent.com/u/172275132?s=400&u=abf226f539a4107ee1327c63c75e3689638dc4ac&v=4)
